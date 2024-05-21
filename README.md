@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Virtual Smart Home Project
 
 This project requires Docker to be running on your machine. Follow the steps below to get the Virtual Smart Home Docker images up and running.
@@ -39,7 +38,4 @@ This project requires Docker to be running on your machine. Follow the steps bel
     ```
     mvn test
     ```
-=======
-# smart-home-tests-plus
-integration tests for virtual smart home plus
->>>>>>> e437408 (Initial commit)
+
